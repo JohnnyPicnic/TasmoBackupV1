@@ -3,7 +3,7 @@
   "version": "1.05.00",
   "slug": "tasmobackup",
   "description": "Tasmota Backup",
-  "url": "https://github.com/danmed/TasmoBackupV1/",
+  "url": "https://github.com/JohnnyPicnic/TasmoBackupV1/",
   "image": "danmed/tasmobackupv1",
   "arch": ["amd64","i386","aarch64","armv7","armhf"],
   "homeassistant_api": false,
